@@ -1,6 +1,8 @@
-================
-THIS PACK IS FULL SOURCE================
-=
+========================
+
+THIS PACK IS FULL SOURCE
+
+========================
 Pack of Utilities for Checking Computers for Minecraft Cheats
 
 This collection of programs is intended to help administrators and moderators inspect Windows computers for possible cheating software related to Minecraft or other games. These tools allow you to analyze processes, files, USB activity, and user actions.
